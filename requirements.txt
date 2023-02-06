@@ -1,0 +1,15 @@
+geopy
+keras
+matplotlib
+notebook
+numpy
+odc-stac
+opencv-python-headless
+pandas
+planetary-computer
+pystac-client
+rioxarray
+scikit-learn
+seaborn
+tensorflow
+tqdm
