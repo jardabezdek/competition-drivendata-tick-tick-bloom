@@ -12,10 +12,10 @@ challenge, organised by [DrivenData](https://www.drivendata.org/).
 
 ### Local development
 
-#### Docker
-
 > I wasn't able to install all the requirements within docker image, so I used
 virtualenv.
+
+#### Docker
 
 In order to create a working environment, the [docker](https://www.docker.com/)
 is used. To start it, please, follow the next steps.
